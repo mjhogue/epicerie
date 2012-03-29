@@ -36,12 +36,12 @@
       (make-recipe 1
 		   (list
 		    (make-ingredient "celeri" (cup 1/2))
-		    (make-ingredient "tomate cerise" 10))))
+		    (make-ingredient "tomate cerise" 10)))))
 
 ;; Souper du lundi de la 7e semaine du livre 2
 (def lun-souper-2-7
      (list
-      (get-recipe "Sole manadine" 2)
+      (get-recipe "Sole amandine" 2)
       (make-recipe 1
 		   (list
 		    (make-ingredient "riz brun" (cup (* 2 1/2)))
@@ -135,7 +135,7 @@
 ;; Diner du mercredi de la 7e semaine du livre 2
 (def mer-diner-2-7
      (list
-      (get-recipe "Pain aux nois pomme-ricotta" 1)
+      (get-recipe "Pain aux noix pomme-ricotta" 1)
       (get-recipe "Salade de roquette" 1)))
 
 

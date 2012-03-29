@@ -41,7 +41,7 @@
 ;; Souper du lundi de la 3e semaine du livre 2
 (def lun-souper-2-3
      (list
-      (get-recipe "Escalopes de veau facon saltimbocca" 2)
+      (get-recipe "Escalopes de veau facon saltimboca" 2)
       (make-recipe 1
 		   (list
 		    (make-ingredient "orge" (cup (* 2 1/2)))
@@ -148,7 +148,7 @@
 ;; Souper du mercredi de la 3e semaine du livre 2
 (def mer-souper-2-3
      (list
-      (get-recipe "Quiche sans croure jambon et asperges" 2)
+      (get-recipe "Quiche sans croute jambon et asperges" 2)
       (make-recipe 1
 		   (list
 		    (make-ingredient "tranche de pain ble entier" 1)
@@ -263,7 +263,7 @@
 ;; Souper du vendredi de la 3e semaine du livre 2
 (def ven-souper-2-3
      (list
-      (get-recipe "Risotto d'orge au poulet et aux petits pois" 2)
+      (get-recipe "Risotto d'orge au poulet et petits pois" 2)
       (get-recipe "Salade de roquette" 2)))
       
 ;; Vendredi de la 3e semaine du livre 2

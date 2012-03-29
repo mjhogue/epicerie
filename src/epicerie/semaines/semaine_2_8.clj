@@ -31,7 +31,7 @@
      (list
       (make-recipe 1
 		   (list
-		    (make-ingredient "prune" 1))))
+		    (make-ingredient "prune" 1)))))
 
 ;; Souper du lundi de la 8e semaine du livre 2
 (def lun-souper-2-8

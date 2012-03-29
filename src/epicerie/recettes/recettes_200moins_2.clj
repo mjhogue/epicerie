@@ -127,7 +127,7 @@
 		    (make-ingredient "paprika" (tablespoon 1))
 		    (make-ingredient "gousse d'ail" 1)
 		    (make-ingredient "poulet" (gram 300))))
-      (make-recipe "Salade carottes et raisins sec" 1
+      (make-recipe "Salade carottes et raisins secs" 1
 		   (list
 		    (make-ingredient "carotte" (cup 1))
 		    (make-ingredient "raisins secs" (teaspoon 2))

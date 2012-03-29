@@ -50,7 +50,7 @@
 		    (make-ingredient "bicarbonate de soude" (teaspoon 1))
 		    (make-ingredient "poudre a pate" (tablespoon 1))
 		    (make-ingredient "bleuet" (cup 1/2))))
-      (make-recipe "Gaufres aux bananes et au beure d'arachide" 2
+      (make-recipe "Gaufres aux bananes et au beurre d'arachide" 2
 		   (list
 		    (make-ingredient "beurre d'arachide" (teaspoon 2))
 		    (make-ingredient "banane" 1)

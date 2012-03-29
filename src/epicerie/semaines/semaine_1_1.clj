@@ -220,7 +220,7 @@
 ;; Diner du vendredi de la 1e semaine du livre 1
 (def ven-diner-1-1
      (list
-      (get-recipe "Sandwich L'italien" 1)
+      (get-recipe "Sandwich l'italien" 1)
       (make-recipe 1
 		   (list
 		    (make-ingredient "jus de legumes" (cup 1/2))
@@ -308,7 +308,7 @@
 ;; Collation 1 du dimanche de la 1e semaine du livre 1
 (def dim-col1-1-1
      (list
-      (get-recipe "Muffins aux carottes et aux canneberges" 1)))
+      (get-recipe "Muffin aux carottes et aux canneberges" 1)))
 
 ;; Diner du dimanche de la 1e semaine du livre 1
 (def dim-diner-1-1

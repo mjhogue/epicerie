@@ -154,7 +154,7 @@
 ;; Souper du mercredi de la 2e semaine du livre 2
 (def mer-souper-2-2
      (list
-      (get-recipe "Minipais veges" 2)
+      (get-recipe "Minipains veges" 2)
       (make-recipe 1
 		   (list
 		    (make-ingredient "carotte" (cup (* 2 1)))))))

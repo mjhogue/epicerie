@@ -24,7 +24,7 @@
 ;; Diner du lundi de la 2e semaine du livre 1
 (def lun-diner-1-2
      (list
-      (get-recipe "Sandwich Le pita de la mer" 1)
+      (get-recipe "Sandwich le pita de la mer" 1)
       (make-recipe 1
 		   (list
 		    (make-ingredient "carre aux framboises" 1)))))
@@ -119,7 +119,7 @@
 ;; Diner du mercredi de la 2e semaine du livre 1
 (def mer-diner-1-2
      (list
-      (get-recipe "Sandwich Le sucre sale" 1)
+      (get-recipe "Sandwich le sucre sale" 1)
       (make-recipe 1
 		   (list
 		    (make-ingredient "jus de legumes" (cup 1))
@@ -177,7 +177,7 @@
 ;; Souper du jeudi  de la 2e semaine du livre 1
 (def jeu-souper-1-2
      (list
-      (get-recipe "Cotelette de porc braisee" 2)
+      (get-recipe "Cotelette de porc braise" 2)
       (make-recipe 1
 		   (list
 		    (make-ingredient "couscous" (cup (* 2 1)))
@@ -217,7 +217,7 @@
 ;; Diner du vendredi de la 2e semaine du livre 1
 (def ven-diner-1-2
      (list
-      (get-recipe "Sandwich L'italien" 1)
+      (get-recipe "Sandwich l'italien" 1)
       (make-recipe 1
 		   (list
 		    (make-ingredient "jus de legumes" (cup 1/2))
@@ -305,7 +305,7 @@
 ;; Collation 1 du dimanche de la 2e semaine du livre 1
 (def dim-col1-1-2
      (list
-      (get-recipe "Muffins aux carottes et aux canneberges" 1)))
+      (get-recipe "Muffin aux carottes et aux canneberges" 1)))
 
 ;; Diner du dimanche de la 2e semaine du livre 1
 (def dim-diner-1-2

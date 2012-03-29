@@ -138,7 +138,7 @@
      (list
       (get-recipe "Salade oeufs et feta" 1)
       (make-recipe 1
-		    (make-ingredient "pita ble entier" 1/2)))))
+		    (make-ingredient "pita ble entier" 1/2))))
 
 ;; Collation 2 du mercredi de la 6e semaine du livre 2
 (def mer-col2-2-6
@@ -310,7 +310,7 @@
       (make-recipe 1
 		   (list
 		    (make-ingredient "ciabatta ble entier" 1/2)
-		    (make-ingrrdient "hoummos" (tablespoon 3))
+		    (make-ingredient "hoummos" (tablespoon 3))
 		    (make-ingredient "fromage allege" (gram 25))))))
 
 ;; Collation 2 du samedi de la 6e semaine du livre 2

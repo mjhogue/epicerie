@@ -76,7 +76,7 @@
 ;; Diner du mardi de la 5e semaine du livre 2
 (def mar-diner-2-5
      (list
-      (get-recipe "Salade prosciutto, laiture, tomates" 1)
+      (get-recipe "Salade prosciutto, laitue, tomates" 1)
       (make-recipe 1
 		   (list
 		    (make-ingredient "galette de riz brun" 2)))))
@@ -261,7 +261,7 @@
       (get-recipe "Fajitas de poulet en feuilles de laitue" 2)
       (make-recipe 1
 		   (list
-		    (make-ingredient "tortilla ble entier" (* 2 1))))
+		    (make-ingredient "tortilla ble entier" (* 2 1))))))
       
 ;; Vendredi de la 5e semaine du livre 2
 (def vendredi-2-5
@@ -316,7 +316,7 @@
       (make-recipe 1
 		   (list
 		    (make-ingredient "jus de legume" (cup 1/2))
-		    (make-ingredient "pita ble entier" 1/2))))))
+		    (make-ingredient "pita ble entier" 1/2)))))
 
 ;; Samedi de la 5e semaine du livre 2
 (def samedi-2-5
