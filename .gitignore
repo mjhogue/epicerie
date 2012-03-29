@@ -1,0 +1,10 @@
+*~
+/pom.xml
+*jar
+/bin
+/lib
+/classes
+/native
+/checkouts
+/.lein-deps-sum
+epicerie.txt
