@@ -39,7 +39,7 @@
 ;; 		   (ingredient-list (map (partial scale-recipe 2) semaine-1)))
 
 
-					; EXEMPLES
+					; EXEMPLES !
 
 ;; Produit la liste des ingredients de la semaine 2-4-modif
 (print-ingredients "./epicerie.txt" (ingredient-list semaine-2-3-modif))
