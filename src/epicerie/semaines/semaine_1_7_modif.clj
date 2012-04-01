@@ -241,7 +241,6 @@
 ;; Dejeuner du samedi de la 7e semaine du livre 1
 (def sam-dej-1-7
      (list
-      (get-recipe "Smoothie" 1)
       (make-recipe 1
 		   (list
 		    (make-ingredient "Muffin aux noix" 1)
