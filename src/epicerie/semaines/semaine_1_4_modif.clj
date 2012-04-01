@@ -240,7 +240,7 @@
       (get-recipe "Tartinade a la ricotta et aux framboises" 1)
       (make-recipe 1
 		   (list
-		    (make-ingredient "bagel ble entie" 1/2)
+		    (make-ingredient "bagel ble entier" 1/2)
 		    (make-ingredient "peche" 1)
 		    (make-ingredient "lait de soya" (cup 1/2))))))
 
