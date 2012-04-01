@@ -12,7 +12,7 @@
 		    (make-ingredient "muffin anglais ble entier" 1)
 		    (make-ingredient "melon miel" (cup 3/4))
 		    (make-ingredient "petit yogourt de 100g" 1)
-        (make-ingredient "lait" (cup 1))))))
+        (make-ingredient "lait de soya" (cup 1))))))
 
 ;; Collation 1 du lundi de la 2e semaine du livre 1
 (def lun-col1-1-2

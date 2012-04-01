@@ -16,6 +16,7 @@
 ;; Recettes de plus de 400 Calories du livre 2
 (def recipes-400-more-2
      (list
+       
       (make-recipe "Couscous au poulet et aux fruits seches" 1
 		   (list
 		    (make-ingredient "couscous cuit" (cup 1))
@@ -28,6 +29,7 @@
 		    (make-ingredient "huile d'olive" (teaspoon 1))
 		    (make-ingredient "jus de citron" (teaspoon 1))
 		    (make-ingredient "poudre de cari" (teaspoon 1/4))))
+      
       (make-recipe "Couscous royal au poulet" 2
 		   (list
 		    (make-ingredient "huile d'olive" (teaspoon 1))
@@ -41,9 +43,9 @@
 		    (make-ingredient "courgette" 1)
 		    (make-ingredient "raisin sec" (tablespoon 1))
 		    (make-ingredient "pois chiche" (cup 1/2))
-		    (make-ingredient "eau" (cup (+ 1 1/4)))
 		    (make-ingredient "couscous ble entier" (gram 140))
 		    (make-ingredient "persil" 1)))
+      
       (make-recipe "Linguines aux palourdes" 2
 		   (list
 		    (make-ingredient "spaghetti ble entier" (gram 150))
@@ -53,6 +55,7 @@
 		    (make-ingredient "tomate cerise" 10)
 		    (make-ingredient "bouillon de poulet" (cup 1/2))
 		    (make-ingredient "boite de 142 g de palourdes" 1)))
+      
       (make-recipe "Penne au thon et aux tomates" 2
 		   (list
 		    (make-ingredient "penne ble entier" (gram 240))
@@ -63,10 +66,10 @@
 		    (make-ingredient "olive noire" (cup 1/4))
 		    (make-ingredient "boite de 170 g de thon" 1)
 		    (make-ingredient "basilic frais" (tablespoon 2))))
+      
       (make-recipe "Pizza mexicaine" 2
 		   (list
 		    (make-ingredient "boite de 540 ml de haricots rouges" 1)
-		    (make-ingredient "eau" (cup 1/2))
 		    (make-ingredient "citron" 1)
 		    (make-ingredient "gousse d'ail" 2)
 		    (make-ingredient "cumin" (tablespoon 2))
@@ -77,6 +80,7 @@
 		    (make-ingredient "poivron rouge" 1/2)
 		    (make-ingredient "oignon vert" 2)
 		    (make-ingredient "fromage mozzarella allege" (gram 50))))
+      
       (make-recipe "Salade quinoa, tofu et gouda" 1
 		   (list
 		    (make-ingredient "quinoa cuit" (cup 1))
@@ -86,6 +90,7 @@
 		    (make-ingredient "oignon vert" 1)
 		    (make-ingredient "huile d'olive" (teaspoon 1))
 		    (make-ingredient "jus de lime" 1/2)))
+      
       (make-recipe "Tofu marine aux tomates" 2
 		   (list
 		    (make-ingredient "feuille de basilic frais" 4)
