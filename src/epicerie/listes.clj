@@ -15,6 +15,7 @@
              semaine-1-6 semaine-1-6-modif
              semaine-1-7 semaine-1-7-modif
              semaine-1-8 semaine-1-8-modif
+             semaine-2-1 semaine-2-1-modif
              semaine-2-2 semaine-2-2-modif 
              semaine-2-3 semaine-2-3-modif
              semaine-2-4 semaine-2-4-modif 

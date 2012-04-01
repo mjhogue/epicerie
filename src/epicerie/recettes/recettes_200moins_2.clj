@@ -51,7 +51,7 @@
 		    (make-ingredient "petites crevettes environ 7 g" 12)
 		    (make-ingredient "huile de canola" (teaspoon 1))))
       
-      (make-recipe "Dindon en croute de noix et de miel" 2
+      (make-recipe "Dindon en croute de noix et miel" 2
 		   (list
 		    (make-ingredient "miel" (tablespoon 1/2))
 		    (make-ingredient "moutarde de dijon" (teaspoon 2))
