@@ -147,7 +147,7 @@
 		    (make-ingredient "creme sure legere" (tablespoon 1))
 		    (make-ingredient "salsa" (tablespoon 1))))
       
-      (make-recipe "Salade la saucisonne" 1
+      (make-recipe "Salade la saucissonne" 1
 		   (list
 		    (make-ingredient "spaghetti ble entier" (cup 1))
 		    (make-ingredient "saucisson" (gram 45))
@@ -166,7 +166,7 @@
 		    (make-ingredient "poivron" (cup 1/2))
 		    (make-ingredient "huile d'olive" (teaspoon 2))))
       
-      (make-recipe "Sandwich le bagel surpise" 1
+      (make-recipe "Sandwich le bagel surprise" 1
 		   (list
 		    (make-ingredient "bagel ble entier" 1)
 		    (make-ingredient "oeuf" 2)

@@ -99,6 +99,14 @@
 		    (make-ingredient "feuille de laitue" 1)
 		    (make-ingredient "moutarde de dijon" (teaspoon 1))))
       
+      (make-recipe "Medaillon de veau farci" 1
+		   (list
+		    (make-ingredient "ricotta" (tablespoon 3))
+		    (make-ingredient "zeste de 1/2 citron" 1)
+		    (make-ingredient "feuille de sauge fraiche" 2)
+		    (make-ingredient "medaillon de veau de 90g" 2)
+		    (make-ingredient "huile d'olive" (teaspoon 1))))
+      
       (make-recipe "Omelette au saumon fume" 1
 		   (list
 		    (make-ingredient "oeuf" 2)

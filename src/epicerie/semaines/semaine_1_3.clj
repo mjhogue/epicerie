@@ -240,7 +240,7 @@
 		   (list
 		    (make-ingredient "tranche de pain ble entie" 2)
 		    (make-ingredient "beurre d'arachide" (teaspoon 1))
-		    (make-ingredient "melon d'eat" (cup 3/4))
+		    (make-ingredient "melon d'eau" (cup 3/4))
 		    (make-ingredient "lait de soya" (cup 1))))))
 
 ;; Collation 1 du samedi de la 3e semaine du livre 1
@@ -286,7 +286,7 @@
 		   (list
 		    (make-ingredient "muffin anglais ble entier" 1)
 		    (make-ingredient "beurre d'arachide" (teaspoon 2))
-		    (make-ingredient "friase" (cup 1/2))
+		    (make-ingredient "fraise" (cup 1/2))
 		    (make-ingredient "lait de soya" (cup 1/2))))))
 
 ;; Collation 1 du dimanche de la 3e semaine du livre 1
@@ -322,9 +322,9 @@
 
 
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; S E M A I N E  1-2 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; S E M A I N E  1-3 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;; Semaine 1-2
+;; Semaine 1-3
 (def semaine-1-3
      (concat
       lundi-1-3
