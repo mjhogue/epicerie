@@ -180,7 +180,7 @@
 ;; Souper du jeudi  de la 3e semaine du livre 2
 (def jeu-souper-2-3
      (list
-      (get-recipe "Crevettes cantonnaises" 2)
+      (get-recipe "Crevettes a la cantonaise" 2)
       (make-recipe 1
 		   (list
 		    (make-ingredient "riz" (cup (* 2 1/2)))

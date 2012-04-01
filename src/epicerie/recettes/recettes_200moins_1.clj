@@ -46,7 +46,7 @@
 		    (make-ingredient "parmesan" (tablespoon 2))
 		    (make-ingredient "chapelure" (tablespoon 2))))
       
-      (make-recipe "Crevettes cantonnaises" 1
+      (make-recipe "Crevettes a la cantonaise" 1
 		   (list
 		    (make-ingredient "fecule de mais" (teaspoon 1))
 		    (make-ingredient "bouillon de poulet faible en sel" (cup 1/2))
